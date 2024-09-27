@@ -4,6 +4,7 @@ function App() {
       <h1 className="text-5xl font-extrabold text-white">
         Parenting petsCare Application
       </h1>
+       
     </div>
   );
 }
